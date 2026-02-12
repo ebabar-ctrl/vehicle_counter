@@ -55,8 +55,9 @@ import truckImg from '@/assets/truck.jpg';
 import padyakImg from '@/assets/padyak.jpg';
 import tricycleImg from '@/assets/tricycle.jpg';
 import motorcycleImg from '@/assets/motorcycle.jpg';
-import etrikeImg from '@/assets/Etrike.jpg';
 import carImg from '@/assets/car.jpg';
+import etrikeImg from '@/assets/Etrike.jpg';
+
 
 // Placeholder fallback for broken images (a small transparent data URL) - same as dashboard
 const placeholderImage = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIxMjAiIGhlaWdodD0iODAiIGZpbGw9IiNjY2MiLz48dGV4dCB4PSI2MCIgeT0iNDAiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM5OTkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk5vIEltYWdlPC90ZXh0Pjwvc3ZnPg==';
